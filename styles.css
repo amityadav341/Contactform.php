@@ -1,0 +1,21 @@
+body {
+    
+    background-image: url('https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/freeimg_39732256freejpg850.jpg');
+}
+  .form{
+      margin: auto;
+      margin-top: 5%;
+      
+      width: 40%;
+      height: 80%;
+      background-image: linear-gradient(rgb(0, 216, 187),blue);
+  }
+  .name{
+      margin: auto;
+      width: 70%;
+     
+  }
+ 
+  h2{
+    text-align: center;
+  }
